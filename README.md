@@ -32,10 +32,12 @@ Please print this using a 0.4mm nozzle and at least a layer height of 0.16mm fin
 
 When wiring, keep your wire runs on the shorter side, I utilized super glue to hold the switch in place. Consult the images for more detailed assembly. 
 
+The cap has two guide rails which slide onto the top of the main body, while this is semi-secure, I highly recommend putting a dot of glue on each corner once you have completed assembly.
+
 <img src="media/Internal Organization.JPG" alt="(Image of the internal assembly)" width="500">
 <img src="media/Internal Organization Expanded.JPG" alt="(Image of the internal assembly)" width="500">
 
 #Extra Notes
-Printables Link:
+Printables Link: https://www.printables.com/model/1926398-waveshare-matrix-battery-case
 
 Big thanks to Vateva for creating this awesome fluid simulator for this devboard, which actually inspired this prokect. Heres a link to their repo: https://github.com/Vateva/Esp32FluidSimulation8x8 
