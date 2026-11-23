@@ -16,7 +16,7 @@ This is a case for the esp32-s3 Matrix board made by waveshare which includes a 
 
 <img src="media/Battery Charger.png" alt="(Image of the battery charger)" width="300">
 
-#Wiring
+# Wiring
 
 Batt Connector + --> Batt Charger +
 
@@ -28,7 +28,8 @@ Batt Charger o- --> Matrix Ground
 
 Switch Terminal B --> Matrix 5v 
 
-#Printing Considerations and Assembly
+# Printing Considerations and Assembly
+
 Please print this using a 0.4mm nozzle and at least a layer height of 0.16mm fine. If you use a more granular layer height there may be issues with floating layers. 
 
 When wiring, keep your wire runs on the shorter side, I utilized super glue to hold the switch in place. Consult the images for more detailed assembly. 
@@ -38,7 +39,8 @@ The cap has two guide rails which slide onto the top of the main body, while thi
 <img src="media/Internal Organization.JPG" alt="(Image of the internal assembly)" width="500">
 <img src="media/Internal Organization Expanded.JPG" alt="(Image of the internal assembly)" width="500">
 
-#Extra Notes
+# Extra Notes
+
 Printables Link: https://www.printables.com/model/1926398-waveshare-matrix-battery-case
 
 Big thanks to Vateva for creating this awesome fluid simulator for this devboard, which actually inspired this prokect. Heres a link to their repo: https://github.com/Vateva/Esp32FluidSimulation8x8 
