@@ -17,6 +17,7 @@ This is a case for the esp32-s3 Matrix board made by waveshare which includes a 
 <img src="media/Battery Charger.png" alt="(Image of the battery charger)" width="300">
 
 #Wiring
+
 Batt Connector + --> Batt Charger +
 
 Batt Connector - --> Batt Charger B-
