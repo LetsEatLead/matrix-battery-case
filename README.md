@@ -38,4 +38,4 @@ When wiring, keep your wire runs on the shorter side, I utilized super glue to h
 #Extra Notes
 Printables Link:
 
-Big thanks to Vateva for creating this awesome fluid simulator for this devboard, which actually inspired this prokect. Heres a link to his repo: https://github.com/Vateva/Esp32FluidSimulation8x8 
+Big thanks to Vateva for creating this awesome fluid simulator for this devboard, which actually inspired this prokect. Heres a link to their repo: https://github.com/Vateva/Esp32FluidSimulation8x8 
